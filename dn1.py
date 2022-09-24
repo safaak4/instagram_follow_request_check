@@ -1,4 +1,4 @@
-from webbot import Browser
+from webbot import Browser #pip install webbot
 import time
 
 atilan_takip_istekleri = [
